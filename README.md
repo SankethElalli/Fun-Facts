@@ -1,4 +1,4 @@
-# Personal Fun Facts App
+# Personal Fun Facts App with Pieces & Copilot AI
 
 A simple, interactive web application that displays and shares random fun facts about you. Built with HTML, CSS, and vanilla JavaScript, this app provides an engaging way to share personal facts with others.
 
