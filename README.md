@@ -2,7 +2,7 @@
 
 A simple, interactive web application that displays and shares random fun facts about you. Built with HTML, CSS, and vanilla JavaScript, this app provides an engaging way to share personal facts with others.
 
-## 🌟 Features
+## Features
 
 - Random fact generation
 - Modern, responsive design
@@ -11,17 +11,17 @@ A simple, interactive web application that displays and shares random fun facts 
 - Mobile-friendly layout
 - No dependencies required
 
-## 🚀 Demo
+## Demo
 
 You can view a live demo of the app here: `[Your GitHub Pages URL]`
 
-## 📋 Prerequisites
+## Prerequisites
 
 - A modern web browser
 - Basic understanding of HTML, CSS, and JavaScript
 - A code editor (VS Code, Sublime Text, etc.)
 
-## 🛠️ Installation
+## Installation
 
 1. Clone the repository:
 ```bash
