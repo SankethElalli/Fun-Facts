@@ -22,7 +22,7 @@ This project was developed with the assistance of AI tools:
 
 ## Demo
 
-You can view a live demo of the app here: `[Your GitHub Pages URL]`
+You can view a live demo of the app here: https://sankethelalli.github.io/Fun-Facts/
 
 ## Acknowledgments
 
