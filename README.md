@@ -40,6 +40,6 @@ You can view a live demo of the app here: https://sankethelalli.github.io/Fun-Fa
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/your-username/fun-facts-app.git
