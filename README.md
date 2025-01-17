@@ -42,4 +42,4 @@ You can view a live demo of the app here: https://sankethelalli.github.io/Fun-Fa
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/fun-facts-app.git
+git clone https://github.com/SankethElalli/fun-facts-app.git
